@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, My Name is Esteban Rojas
 
-<!--
-**esteban126/esteban126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master candidate in data science at the University of Chile. I live in Santiago de Chile and currently work as a digital marketing analyst at ClaroVTR.
 
-Here are some ideas to get you started:
+## My info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I like movies, tv series and comics/manga.
+* Also, cooking and making sweets for family and friends.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-rojas-moyano/)
+[![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](e.rojas.moyano@gmail.com)
+
